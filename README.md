@@ -21,7 +21,7 @@ Includes tables like:
 users – Stores user credentials and profiles
 destinations – Holds data about available tours
 
-https://github.com/buildwithmansi123/Tour-Traval-Agency-Website/blob/c0b01c6331c661c42504d60db65bbee0710e2c9b/img.png
+![image alt]( https://github.com/buildwithmansi123/Tour-Traval-Agency-Website/blob/c0b01c6331c661c42504d60db65bbee0710e2c9b/img.png)
 
 
 
