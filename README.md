@@ -23,6 +23,7 @@ destinations – Holds data about available tours.
 
 ![image alt]( https://github.com/buildwithmansi123/Tour-Traval-Agency-Website/blob/c0b01c6331c661c42504d60db65bbee0710e2c9b/img.png)
 ![image alt](https://github.com/buildwithmansi123/Tour-Traval-Agency-Website/blob/14dc5c772ad086bd9343161d85927bd709d5565c/img2.png)
+![image alt](https://github.com/buildwithmansi123/Tour-Traval-Agency-Website/blob/0bc40d0fdc15d5d303c4ba8cc6a6d31355503e67/img3.png)
 
 
 
